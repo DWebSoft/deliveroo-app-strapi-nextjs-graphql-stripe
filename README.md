@@ -1,6 +1,6 @@
 # Deliveroo
 
-A simple but robust app created by super awesome node.js framework [Strapi.io](https://strapi.io)
+A simple but robust app created by super awesome Node.js CMS [Strapi.io](https://strapi.io)
 
 From signup to order, this app let users discover restaurants, dishes and select their happy meal.
 
